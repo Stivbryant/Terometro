@@ -1,1 +1,1 @@
-# Terometro
+# Termometro
